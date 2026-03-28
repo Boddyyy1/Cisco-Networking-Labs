@@ -26,6 +26,6 @@ A comprehensive collection of **30+ professional networking labs** developed thr
 
 ---
 **Contact & Professional Profiles:**
-* **LinkedIn:** [Insert Your Link]
+* **LinkedIn:** www.linkedin.com/in/aeb123
 * **Email:** ae2301@fayoum.edu.eg
 * **Current Status:** Final Year CS Student | ALX Community Manager & Instructor
